@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Git\VS Code\Day10\Day10\bin\Debug\netcoreapp3.1\Day10.exe
+C:\Users\Admin\Desktop\Git\VS Code\Day10\Day10\bin\Debug\netcoreapp3.1\Day10.deps.json
+C:\Users\Admin\Desktop\Git\VS Code\Day10\Day10\bin\Debug\netcoreapp3.1\Day10.runtimeconfig.json
+C:\Users\Admin\Desktop\Git\VS Code\Day10\Day10\bin\Debug\netcoreapp3.1\Day10.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Git\VS Code\Day10\Day10\bin\Debug\netcoreapp3.1\Day10.dll
+C:\Users\Admin\Desktop\Git\VS Code\Day10\Day10\bin\Debug\netcoreapp3.1\Day10.pdb
+C:\Users\Admin\Desktop\Git\VS Code\Day10\Day10\obj\Debug\netcoreapp3.1\Day10.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Git\VS Code\Day10\Day10\obj\Debug\netcoreapp3.1\Day10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Git\VS Code\Day10\Day10\obj\Debug\netcoreapp3.1\Day10.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Git\VS Code\Day10\Day10\obj\Debug\netcoreapp3.1\Day10.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Git\VS Code\Day10\Day10\obj\Debug\netcoreapp3.1\Day10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Git\VS Code\Day10\Day10\obj\Debug\netcoreapp3.1\Day10.dll
+C:\Users\Admin\Desktop\Git\VS Code\Day10\Day10\obj\Debug\netcoreapp3.1\Day10.pdb
+C:\Users\Admin\Desktop\Git\VS Code\Day10\Day10\obj\Debug\netcoreapp3.1\Day10.genruntimeconfig.cache

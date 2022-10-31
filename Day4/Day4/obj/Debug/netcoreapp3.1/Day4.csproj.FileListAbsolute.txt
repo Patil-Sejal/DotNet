@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\VS Code\Day4\Day4\obj\Debug\netcoreapp3.1\Day4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\VS Code\Day4\Day4\obj\Debug\netcoreapp3.1\Day4.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\VS Code\Day4\Day4\obj\Debug\netcoreapp3.1\Day4.AssemblyInfo.cs
+C:\Users\Admin\Desktop\VS Code\Day4\Day4\obj\Debug\netcoreapp3.1\Day4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\VS Code\Day4\Day4\obj\Debug\netcoreapp3.1\Day4.csproj.AssemblyReference.cache
